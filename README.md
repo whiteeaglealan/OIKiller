@@ -1,2 +1,2 @@
 # OIKiller
-NOIp初赛练习与模拟的小软件
+Moved to [xalanq/OIKiller](https://github.com/xalanq/OIKiller)
